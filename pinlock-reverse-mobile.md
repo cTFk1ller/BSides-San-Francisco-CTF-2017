@@ -1,11 +1,12 @@
-Challenge |
------------
-It's the developer's first mobile application.hey are trying their hand at storing secrets securely. Could one of them be the flag? (150 pts)|
---------------------------------------------------------------------------------------
 
-file|
--------------
-pinstore.apk|
+|Challenge |
+|------------|
+|It's the developer's first mobile application.hey are trying their hand at storing secrets securely. Could one of them be the flag? (150 pts)|
+
+|file|
+|-------------|
+|[pinstore.apk](https://github.com/youben11/BSides-San-Francisco-CTF-2017/blob/master/pinstore.apk)|
+
 
 We start by : unzip pinstore.apk 
 then convert the classes.dex file to jar by using : d2j-dex2jar classes.dex
